@@ -13,3 +13,4 @@ Ejecuta el script proporcionando una dirección IP con notación CIDR. Si no se 
 ```sh
 python3 netinfo.py <IP/CIDR>
 ```
+### Recomiendo añadir el binario a una ruta relativa al $PATH
